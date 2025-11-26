@@ -1,0 +1,7 @@
+{
+  "name": "SMC Asistente de Voz",
+  "description": "Agente de voz inteligente para soporte técnico de Sistemas Modulares de Computación (SMC).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
